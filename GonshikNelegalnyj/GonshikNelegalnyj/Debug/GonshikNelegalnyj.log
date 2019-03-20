@@ -1,0 +1,7 @@
+﻿  GonshikNelegalnyj.cpp
+e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(20): error C2027: use of undefined type 'Game_Process'
+  e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(14): note: see declaration of 'Game_Process'
+e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(49): error C2059: syntax error: '}'
+e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(49): error C2143: syntax error: missing ';' before '}'
+e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(95): error C2660: 'Game_Process::getplayerinfo': function does not take 1 arguments
+  e:\github\proektgrebukakoj\infoproject\gonshiknelegalnyj\gonshiknelegalnyj\gonshiknelegalnyj.cpp(32): note: see declaration of 'Game_Process::getplayerinfo'
